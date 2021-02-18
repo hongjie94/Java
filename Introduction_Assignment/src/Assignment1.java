@@ -1,5 +1,3 @@
-import javax.swing.JOptionPane;
-
 public class Assignment1 {
 
 	public static void main(String[] args) {
